@@ -1,3 +1,4 @@
-public class IProcessarPag{
-    
+public interface IProcessarPag{
+
+    public void Confirmacao();
 }
