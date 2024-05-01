@@ -12,3 +12,4 @@ C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao1\obj\Debug\n
 C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao1\obj\Debug\net8.0\Questao1.pdb
 C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao1\obj\Debug\net8.0\Questao1.genruntimeconfig.cache
 C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao1\obj\Debug\net8.0\ref\Questao1.dll
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao1\obj\Debug\net8.0\Questao1.sourcelink.json
