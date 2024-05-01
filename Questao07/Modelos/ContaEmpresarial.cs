@@ -1,6 +1,7 @@
 public class ContaEmpresarial : Banco
 {
     public double Saldo { get; set;}
+    public double Valor {get; set;}
 
     public ContaEmpresarial(string NumeroConta){
         this.NumeroConta = NumeroConta;
@@ -25,16 +26,19 @@ public class ContaEmpresarial : Banco
                 Console.WriteLine("Negado, seu Saldo é: " + Saldo);
             }
         }else{
-            Console.WriteLine("Seu saldo ficara menor que o saldo minimo exigido pelo Banco para contas empresariais, Saque Negado!!");
+            Console.WriteLine("Não é possível efetuar essa transação! Seu saldo ficará menor que o saldo mínimo exigido pelo Banco para contas empresariais.");
+            Console.WriteLine("Saque Negado!!");
         }
     
     }
 
     public bool SaldoMinimo(){
-        if(Saldo <= 1000){
-            Console.WriteLine("Nao e possivel efetuar essa transacao!");
+        if (Saldo - Valor >= 1000)
+        {
             return false;
-        }else{
+        }
+        else
+        {
             return true;
         }
     }
