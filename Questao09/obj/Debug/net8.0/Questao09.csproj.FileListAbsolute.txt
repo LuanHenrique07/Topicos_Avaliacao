@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao09\bin\Debug\net8.0\Questao09.exe
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao09\bin\Debug\net8.0\Questao09.deps.json
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao09\bin\Debug\net8.0\Questao09.runtimeconfig.json
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao09\bin\Debug\net8.0\Questao09.dll
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao09\bin\Debug\net8.0\Questao09.pdb
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao09\obj\Debug\net8.0\Questao09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao09\obj\Debug\net8.0\Questao09.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao09\obj\Debug\net8.0\Questao09.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao09\obj\Debug\net8.0\Questao09.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao09\obj\Debug\net8.0\Questao09.sourcelink.json
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao09\obj\Debug\net8.0\Questao09.dll
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao09\obj\Debug\net8.0\refint\Questao09.dll
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao09\obj\Debug\net8.0\Questao09.pdb
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao09\obj\Debug\net8.0\Questao09.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\FACULDADE\3_s\Top\ListaAvaliativa\Questao09\obj\Debug\net8.0\ref\Questao09.dll
